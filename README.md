@@ -42,10 +42,8 @@ This particular dataset was utilized to leverage a small group of biometric meas
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
+- https://github.com/013786/Capstone/blob/main/long_capstone.ipynb
+- https://github.com/013786/Capstone/blob/main/data/
 
 ##### Contact and Further Information
 Brad Long
