@@ -42,9 +42,9 @@ This particular dataset was utilized to leverage a small group of biometric meas
 
 #### Outline of project
 
-- [https://github.com/013786/Capstone/blob/main/long_capstone.ipynb]( Capstone Notebook )
-- [https://github.com/013786/Capstone/blob/main/README.md]( README )
-- [https://github.com/013786/Capstone/tree/main/data]( Data Folder )
+- [https://github.com/013786/Capstone/blob/main/long_capstone.ipynb](Link to Capstone Notebook)
+- [https://github.com/013786/Capstone/blob/main/README.md](Link to README)
+- [https://github.com/013786/Capstone/tree/main/data](Link Data Folder)
 
 
 ##### Contact and Further Information
